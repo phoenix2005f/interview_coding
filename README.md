@@ -1,6 +1,6 @@
 # interview_coding
 
 * codility
- - ex1-1 BinaryGap
+  - ex1_1 BinaryGap
 * leetcode
 * other
